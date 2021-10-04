@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java/C++ development
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on Java/C++ repository
+- 📫 How to reach me: jylipeng@tju.edu.cn
+- 😄 Pronouns: He
+- ⚡ Fun fact: Reading, Gaming, Programming
+
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?LPBruce=littleTreeme&
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LPBruce/LPBruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
