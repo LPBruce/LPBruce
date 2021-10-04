@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a Backend developer from China
 
 - 🔭 I’m currently working on Java/C++ development
 - 🌱 I’m currently learning 
@@ -8,6 +8,8 @@
 - ⚡ Fun fact: Reading, Gaming, Programming
 
 ![LPBruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPBruce&count_private=true?&show_icons=true&theme=vue)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-leetcode&show_owner=true)](https://github.com/LPBruce/Daily-leetcode)
 
 <!--
 **LPBruce/LPBruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPBruce&layout=compact)](https://github.com/LPBruce/github-readme-stats)
