@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Java/C++ development
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Java/C++ repository
-- 😄 Pronouns: He
 - ⚡ Fun fact: Reading, Gaming, Programming
 
 **Languages and Tools:** 
