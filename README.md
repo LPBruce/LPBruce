@@ -1,9 +1,11 @@
 ### Hi, I'm a Backend developer from China
 
 - 🔭 I’m currently working on Java/C++ development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Dubbo
 - 👯 I’m looking to collaborate on Java/C++ repository
 - ⚡ Fun fact: Reading, Gaming, Programming
+- 💬 Ask me about Json/Yaml
+- 😄 If you have a good idea, please contact with me
 
 **Languages and Tools:** 
 
@@ -15,6 +17,9 @@
 
 <a href="ttps://github.com/LPBruce/Daily-leetcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-leetcode&show_owner=true" />
+</a>
+<a href="ttps://github.com/LPBruce/Daily-leetcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=dubbo&show_owner=true" />
 </a>
 
 
