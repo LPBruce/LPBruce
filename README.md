@@ -12,8 +12,13 @@
 | <a href="https://github.com/LPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LPBruce&count_private=true?&show_icons=true&theme=vue&include_all_commits=true&theme=buefy&hide_border=true" alt="LPBruce's GitHub stats" /></a> | <a href="https://github.com/aLPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPBruce&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Focused Repositories
 
+**perseverance prevails:** 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&" alt="LPBruce" /></p>
+
+
+
+**Focused Repositories:** 
 
 <a href="ttps://github.com/LPBruce/Daily-leetcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-leetcode&show_owner=true" />
@@ -21,6 +26,9 @@
 <a href="ttps://github.com/LPBruce/Daily-leetcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=dubbo&show_owner=true" />
 </a>
+
+
+
 
 
 <!--
