@@ -8,22 +8,20 @@
 - 😄 If you have a good idea, please contact with me
 
 **Languages and Tools:** 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LPBruce&show_icons=true&theme=buefy&locale=en&layout=compact" alt="LPBruce's GitHub stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LPBruce&show_icons=true&locale=en" alt="LPBruce's GitHub stats" /></p>
+| <a href="https://github.com/LPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LPBruce&count_private=true&show_icons=true&theme=vue&include_all_commits=true&theme=buefy&hide_border=true" alt="LPBruce's GitHub stats" /></a> | <a href="https://github.com/aLPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPBruce&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 **Perseverance prevails:** 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&" alt="LPBruce" /></p>
 
 **Focused Repositories:** 
-
-<a href="ttps://github.com/LPBruce/Daily-leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-leetcode&show_owner=true" />
+<a href="https://github.com/LPBruce/Daily-leetcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-leetcode&show_owner=true&theme=buefy" />
 </a>
-<a href="ttps://github.com/LPBruce/Daily-leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=dubbo&show_owner=true" />
+<a href="https://github.com/LPBruce/Daily-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPBruce&repo=Daily-Java&show_owner=true&theme=buefy" />
 </a>
-
-
 
 
 
@@ -34,8 +32,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 
-| <a href="https://github.com/LPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LPBruce&count_private=true?&show_icons=true&theme=vue&include_all_commits=true&theme=buefy&hide_border=true" alt="LPBruce's GitHub stats" /></a> | <a href="https://github.com/aLPBruce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPBruce&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LPBruce&show_icons=true&theme=buefy&locale=en&layout=compact" alt="LPBruce's GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LPBruce&show_icons=true&locale=en" alt="LPBruce's GitHub stats" /></p>
 
 
 Here are some ideas to get you started:
