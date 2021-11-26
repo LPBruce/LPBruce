@@ -1,8 +1,8 @@
 ### Hi, I'm a Backend developer from China
 
-- 🔭 I’m currently working on Java/C++ development
+- 🔭 I’m currently working on Java/Go development
 - 🌱 I’m currently learning Dubbo
-- 👯 I’m looking to collaborate on Java/C++ repository
+- 👯 I’m looking to collaborate on Java/Go repository
 - ⚡ Fun fact: Reading, Gaming, Programming
 - 💬 Ask me about Json/Yaml
 - 😄 If you have a good idea, please contact with me
