@@ -15,7 +15,7 @@
 
 **Perseverance prevails:** 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&" alt="LPBruce" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&theme=ayu-light" alt="LPBruce" /></p>
 
 **Focused Repositories:** 
 
