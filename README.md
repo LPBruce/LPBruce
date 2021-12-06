@@ -13,9 +13,6 @@
 | ------------- | ------------- |
 
 
-**Perseverance prevails:** 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&theme=ayu-light" alt="LPBruce" /></p>
 
 **Focused Repositories:** 
 
@@ -34,6 +31,11 @@
 <a href="https://github.com/LPBruce/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
+
+
+**Perseverance prevails:** 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LPBruce&theme=ayu-light" alt="LPBruce" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LPBruce&show_icons=true&theme=buefy&locale=en&layout=compact" alt="LPBruce's GitHub stats" /></p>
